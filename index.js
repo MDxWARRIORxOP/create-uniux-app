@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 const { execSync } = require("child_process");
 
-console.log("Create Uniux App");
+console.log("Create Uniux App V1.0.1");
 
 function runCommand(name){
     execSync(name, (error, stdout, stderr) => {
