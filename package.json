@@ -1,27 +1,23 @@
 {
   "name": "create-uniux-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Create A UniUX App For Your Next Project!",
   "keywords": ["create-uniux-app", "uniux", "typescript uniux", "circel"],
+  "homepage": "https://github.com/MDxWARRIORxOP/create-uniux-app#readme",
+  "bugs": {
+    "url" : "https://github.com/MDxWARRIORxOP/create-uniux-app/issues",
+    "email" : "Kingerious@circel.co"
+  },
+  "license" : "BSD-3-Clause",
+  "author": "Kingerious <Kingerious@circel.co>",
   "main": "index.js",
-  "homepage": "github."
-  "dependencies": {
-    "dom-walk": "^0.1.2",
-    "fs-extra": "^10.1.0",
-    "global": "^4.4.0",
-    "graceful-fs": "^4.2.10",
-    "jsonfile": "^6.1.0",
-    "min-document": "^2.19.0",
-    "pnpm": "^7.12.1",
-    "process": "^0.11.10",
-    "universalify": "^2.0.0"
+  "bin": "./index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MDxWARRIORxOP/create-uniux-app.git"
   },
   "scripts": {
-    "setup": "npm i",
     "start": "node .",
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "dependencies": {}
 }
