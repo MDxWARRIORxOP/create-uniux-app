@@ -1,0 +1,27 @@
+{
+  "name": "create-uniux-app",
+  "version": "1.0.0",
+  "description": "Create A UniUX App For Your Next Project!",
+  "keywords": ["create-uniux-app", "uniux", "typescript uniux", "circel"],
+  "main": "index.js",
+  "homepage": "github."
+  "dependencies": {
+    "dom-walk": "^0.1.2",
+    "fs-extra": "^10.1.0",
+    "global": "^4.4.0",
+    "graceful-fs": "^4.2.10",
+    "jsonfile": "^6.1.0",
+    "min-document": "^2.19.0",
+    "pnpm": "^7.12.1",
+    "process": "^0.11.10",
+    "universalify": "^2.0.0"
+  },
+  "scripts": {
+    "setup": "npm i",
+    "start": "node .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
