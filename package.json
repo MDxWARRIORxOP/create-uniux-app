@@ -17,7 +17,7 @@
     "url": "https://github.com/MDxWARRIORxOP/create-uniux-app.git"
   },
   "scripts": {
-    "start": "node .",
+    "start": "node ."
   },
   "dependencies": {}
 }
