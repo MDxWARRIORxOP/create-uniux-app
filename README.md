@@ -4,13 +4,13 @@
 1. Install This Package
 
 ```bash
-npm install -g create-uniux-app
+$ npm install -g create-uniux-app
 ```
 
 2. Run It
 
 ```bash
-create-uniux-app
+$ create-uniux-app
 ```
 
 3. Follow the steps.
