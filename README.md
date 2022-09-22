@@ -1,4 +1,4 @@
-<p align="center>
+<p align="center">
 <a href="https://circel.co">
 <img alt="Circel" src="https://cdn.discordapp.com/attachments/894260496725835776/903648043486834728/circel_logo.png" >
 </a>
