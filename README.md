@@ -12,6 +12,11 @@ $ npm install -g create-uniux-app
 ```bash
 $ create-uniux-app
 ```
+or
+
+```bash
+$ npx create-uniux-app
+```
 
 3. Follow the steps.
 
