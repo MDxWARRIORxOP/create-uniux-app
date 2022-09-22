@@ -1,5 +1,5 @@
 {
-  "name": "create-uniux-app",
+  "name": "@MDxWARRIORxOP/create-uniux-app",
   "version": "1.0.1",
   "description": "Create A UniUX App For Your Next Project!",
   "keywords": ["create-uniux-app", "uniux", "typescript uniux", "circel"],
@@ -17,6 +17,7 @@
     "url": "https://github.com/MDxWARRIORxOP/create-uniux-app.git"
   },
   "scripts": {
+    "test": "exit 0",
     "start": "node ."
   },
   "dependencies": {}
