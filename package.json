@@ -20,5 +20,8 @@
     "test": "exit 0",
     "start": "node ."
   },
-  "dependencies": {}
+  "dependencies": {},
+  "publishConfig": {
+    "@MDxWARRIORxOP:registry": "https://npm.pkg.github.com"
+  }
 }
