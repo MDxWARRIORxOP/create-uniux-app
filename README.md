@@ -29,6 +29,6 @@ And Thats It! Happy Deving!
 
 <p align="center">Useful Links That You'll propably need.</p>
 
-[UniUX Docs](https://alpha.app.circel.co/uniuxdocs)
-[Circel Website](https://circel.co)
-[Circel Support Discord Server](https://discord.gg/M7deQcpNRv)
+[UniUX Docs](https://alpha.app.circel.co/uniuxdocs)    
+[Circel Website](https://circel.co)    
+[Circel Support Discord Server](https://discord.gg/M7deQcpNRv)    
