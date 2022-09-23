@@ -7,29 +7,28 @@
 # <h1 align="center">Create UniUX App</h1>
 <p align="center">Automatically Generate Starter Files For Your Next Awesome UniUX App.</p>
 
-1. Install This Package
+1. Run The Package
 
 ```bash
-$ npm install -g create-uniux-app
-```
-
-2. Run It
-
-```bash
-$ create-uniux-app
-```
+$ npm create uniux-app
 or
-
-```bash
-$ npx create-uniux-app
+$ yarn create uniux-app
 ```
 
-3. Follow the steps.
+2. Follow the steps Given.
 
-You'd have to enter a name and choose if you want typescript or not.
+You'd have to enter a name and choose wether to use TypeScript or not.
 
-4. Follow The README.md
+3. Follow The README.md
 
-Follow the README.md instead your project folder from step 2.
+Follow the README.md instead your project folder from step 2 to get your development server up and running.
 
-And Thats It! Have Fun Developing Your App!
+And Thats It! Happy Deving!
+
+## <h2 align="center">Links</h2>
+
+<p align="center">Useful Links That You'll propably need.</p>
+
+[UniUX Docs](https://alpha.app.circel.co/uniuxdocs)
+[Circel Website](https://circel.co)
+[Circel Support Discord Server](https://discord.gg/M7deQcpNRv)

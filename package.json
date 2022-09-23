@@ -1,12 +1,18 @@
 {
   "name": "create-uniux-app",
-  "version": "1.0.5",
-  "description": "Create A UniUX App For Your Next Project!",
+  "version": "1.0.6",
+  "description": "Generate Files For Your Next Awesome UniUX App.",
   "keywords": [
     "create-uniux-app",
     "uniux",
     "typescript uniux",
-    "circel"
+    "circel",
+    "generator",
+    "react app generator",
+    "gatsby app generator",
+    "uniux app generator",
+    "website files generator",
+    "files generator"
   ],
   "homepage": "https://github.com/MDxWARRIORxOP/create-uniux-app#readme",
   "bugs": {
@@ -24,8 +30,5 @@
   "scripts": {
     "test": "exit 0",
     "start": "node ."
-  },
-  "publishConfig": {
-    "@MDxWARRIORxOP:registry": "https://npm.pkg.github.com"
   }
 }
